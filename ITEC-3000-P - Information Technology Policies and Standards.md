@@ -1,4 +1,5 @@
-::THIS IS A DRAFT DOCUMENT::
+**THIS IS A DRAFT DOCUMENT**
+
 # ITEC-3000-P: Information Technology Policies and Standards
 
 ## PURPOSE
