@@ -70,7 +70,7 @@ When ITEC adopts a technology policy, it is binding upon all state entities.  St
 
 A Standard is a prescribed or proscribed specification, approach, directive, procedure, solution, methodology, product, or protocol which must be followed. An example of a technology standard might be:
 
-_“Entities must document a security plan that specifies security controls based upon a risk assessment for Information Systems that process, store or transmit Restricted-Use Information."_
+> “Entities must document a security plan that specifies security controls based upon a risk assessment for Information Systems that process, store or transmit Restricted-Use Information."
 
 When ITEC establishes a standard, it is binding upon all state entities.  State entities may adopt additional standards so long as they are not less restrictive or conflict with existing ITEC standards.
 
@@ -78,7 +78,7 @@ When ITEC establishes a standard, it is binding upon all state entities.  State 
 
 A Guideline is similar to either a Standard or a Policy, in that it outlines a specific principle, direction, directive, specification, or procedure, but it is advisory in nature. The intent of a Guideline is to promote a “best practice”, while recognizing that there may be several ways of accomplishing the same task or that further analysis is necessary before adoption of a binding uniform approach. It is possible for Guidelines to evolve into Policies or Standards.  An example of a technology Guideline might be:
 
-“Each user should organize email to aid in the filing and retrieval of messages.  This should be done through a system of folders and subfolders.”
+> “Each user should organize email to aid in the filing and retrieval of messages.  This should be done through a system of folders and subfolders.”
 
 When ITEC issues a Guideline, all entities are encouraged to follow the Guideline, but ultimately it is the agency’s decision whether to use or ignore the Guideline.
 
