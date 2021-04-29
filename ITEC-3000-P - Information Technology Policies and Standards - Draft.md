@@ -1,4 +1,4 @@
-# Information Technology Policies and Standards
+# ITEC-3000-P: Information Technology Policies and Standards
 
 ## PURPOSE
 
