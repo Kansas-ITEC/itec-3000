@@ -59,5 +59,7 @@ All Branches, Boards, Commissions, Departments, Divisions and Agencies of state 
 1. 5.4.	ITEC shall adopt a standard that provides specifications for how “policies”, “standards”, and “guidelines” shall be formatted, organized, and maintained.
 
 ## RESPONSIBILITIES
-6.1.	Heads of entities are responsible for compliance with the requirements of this policy.
-6.2.	The Chief Information Technology Officer, Executive Branch is responsible for the maintenance of this policy.
+
+- Heads of entities are responsible for compliance with the requirements of this policy.
+
+- The Chief Information Technology Officer, Executive Branch is responsible for the maintenance of this policy.
