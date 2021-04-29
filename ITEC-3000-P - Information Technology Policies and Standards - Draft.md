@@ -1,16 +1,24 @@
-1.	TITLE: Information Technology Policies and Standards
-2.	PURPOSE:
+# Information Technology Policies and Standards
+
+## PURPOSE
 
 To define the terms, “policy,” “standard,” and “guideline” and to describe how the Kansas Information Technology Council (ITEC) will issue these in discharging its statutory responsibilities to include establishing technology architecture for the state technology infrastructure.
 
 To promote efficient use of resources and to promote the delivery of public services by an IT enabled system of governance that works better, costs less and is capable of serving the citizens’ needs with ease.
 
 To establish and enforce specifications which shall apply to all technology and technology resource related supplies, materials, and equipment purchased or to be purchased for the use of the state government or any of its entities.  These specifications shall be based to the extent practicable on industry accepted open network architecture and interoperability standards.
-3.	ORGANIZATIONS AFFECTED: All Branches, Boards, Commissions, Departments, Divisions and Agencies of state government, hereafter referred to as entities.
-4.	REFERENCES:
-4.1.	K.S.A. 75-7203 authorizes ITEC to: Adopt information resource policies and procedures and provide direction and coordination for the application of the state's information technology resources for all state agencies.
-4.2.	K.S.A. 75-7205 Duties of the Chief Information Technology Officer (CITO).
-5.	POLICY:
+
+## ORGANIZATIONS AFFECTED
+
+All Branches, Boards, Commissions, Departments, Divisions and Agencies of state government, hereafter referred to as entities.
+
+## REFERENCES
+
+- K.S.A. 75-7203 authorizes ITEC to: Adopt information resource policies and procedures and provide direction and coordination for the application of the state's information technology resources for all state agencies.
+
+- K.S.A. 75-7205 Duties of the Chief Information Technology Officer (CITO).
+
+## POLICY:
 5.1.	ITEC shall establish information technology policies, standards, and enterprise architecture for the state technology infrastructure to promote efficient use of resources and to promote economic development.
 5.2.	Establishment of Policy
 5.2.1.	K.S.A. 75-7203 authorizes the ITEC to set technology policy for all state entities.  This statue also authorizes ITEC to:
