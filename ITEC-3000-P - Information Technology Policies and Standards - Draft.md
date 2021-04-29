@@ -38,6 +38,8 @@ K.S.A. 75-7203 authorizes the ITEC to set technology policy for all state entiti
 
 - Perform such other functions and duties as necessary to carry out the provisions of K.S.A. 75-7203.
 
+ITEC shall adopt a standard that provides specifications for how “policies”, “standards”, and “guidelines” shall be formatted, organized, and maintained.
+
 ITEC will provide a web-based site for the dissemination of policies, standards, and guidelines.
 
 ITEC may delete policies which are no longer applicable for such reason as the policy’s provisions have been superseded by law or legal instrument, or the technology referenced by such policy has become obsolete.
@@ -60,19 +62,25 @@ A Policy is a general or high-level statement of a direction, purpose, principle
 
 A specific example of a technology policy might be:
 
-“Entities shall implement an Information Technology Security Policy for their organization. All Information Technology Security Policies adopted by the Entity must be at least as stringent as this policy.”
-5.3.2.2.2.	When ITEC adopts a technology policy, it is binding upon all state entities.  State entities may adopt additional policies so long as they are not less restrictive or conflict with existing ITEC policies.
-5.3.2.3.	Standards
-5.3.2.3.1.	A Standard is a prescribed or proscribed specification, approach, directive, procedure, solution, methodology, product, or protocol which must be followed. An example of a technology standard might be:
+> “Entities shall implement an Information Technology Security Policy for their organization. All Information Technology Security Policies adopted by the Entity must be at least as stringent as this policy.”
 
-“Entities must document a security plan that specifies security controls based upon a risk assessment for Information Systems that process, store or transmit Restricted-Use Information.
-5.3.2.3.2.	When ITEC establishes a standard, it is binding upon all state entities.  State entities may adopt additional standards so long as they are not less restrictive or conflict with existing ITEC standards.
-5.3.2.4.	Guidelines
-5.3.2.4.1.	A Guideline is similar to either a Standard or a Policy, in that it outlines a specific principle, direction, directive, specification, or procedure, but it is advisory in nature. The intent of a Guideline is to promote a “best practice”, while recognizing that there may be several ways of accomplishing the same task or that further analysis is necessary before adoption of a binding uniform approach. It is possible for Guidelines to evolve into Policies or Standards.  An example of a technology Guideline might be:
+When ITEC adopts a technology policy, it is binding upon all state entities.  State entities may adopt additional policies so long as they are not less restrictive or conflict with existing ITEC policies.
+.	
+#### Standards
+
+A Standard is a prescribed or proscribed specification, approach, directive, procedure, solution, methodology, product, or protocol which must be followed. An example of a technology standard might be:
+
+_“Entities must document a security plan that specifies security controls based upon a risk assessment for Information Systems that process, store or transmit Restricted-Use Information."_
+
+When ITEC establishes a standard, it is binding upon all state entities.  State entities may adopt additional standards so long as they are not less restrictive or conflict with existing ITEC standards.
+
+#### Guidelines
+
+A Guideline is similar to either a Standard or a Policy, in that it outlines a specific principle, direction, directive, specification, or procedure, but it is advisory in nature. The intent of a Guideline is to promote a “best practice”, while recognizing that there may be several ways of accomplishing the same task or that further analysis is necessary before adoption of a binding uniform approach. It is possible for Guidelines to evolve into Policies or Standards.  An example of a technology Guideline might be:
 
 “Each user should organize email to aid in the filing and retrieval of messages.  This should be done through a system of folders and subfolders.”
-5.3.2.4.2.	When ITEC issues a Guideline, all entities are encouraged to follow the Guideline, but ultimately it is the agency’s decision whether to use or ignore the Guideline.
-5.4.	ITEC shall adopt a standard that provides specifications for how “policies”, “standards”, and “guidelines” shall be formatted, organized, and maintained.
+
+When ITEC issues a Guideline, all entities are encouraged to follow the Guideline, but ultimately it is the agency’s decision whether to use or ignore the Guideline.
 
 ## RESPONSIBILITIES
 
