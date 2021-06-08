@@ -26,7 +26,7 @@ ITEC shall establish information technology policies, standards, and enterprise 
 
 ### Establishment of Policy
 
-K.S.A. 75-7203 authorizes the ITEC to set technology policy for all state entities.  This statue also authorizes ITEC to:
+K.S.A. 75-7203 authorizes the ITEC to set technology policy for all state entities.  This statute also authorizes ITEC to:
 
 - Adopt an information technology architecture, including telecommunications systems, networks, and equipment, that covers all state agencies.
 
@@ -42,9 +42,9 @@ K.S.A. 75-7203 authorizes the ITEC to set technology policy for all state entiti
 
 ITEC shall adopt a standard that provides specifications for how “policies”, “standards”, and “guidelines” shall be formatted, organized, and maintained.
 
-ITEC will provide a web-based site for the dissemination of policies, standards, and guidelines.
+ITEC may revoke policies, standards, and guidelines which are no longer applicable for such reason as the provisions have been superseded by law or legal instrument, or the technology referenced by such policy has become obsolete.
 
-ITEC may delete policies which are no longer applicable for such reason as the policy’s provisions have been superseded by law or legal instrument, or the technology referenced by such policy has become obsolete.
+ITEC will provide a web-based site for the dissemination of policies, standards, and guidelines.  This web-based site should include clearly marked revoked policies that include the date the policy was active for auditing purposes.
 
 ### Establishment of Standards and Guidelines
 
