@@ -1,10 +1,8 @@
-**THIS IS A DRAFT DOCUMENT**
-
 # ITEC-3000-P: Information Technology Policies and Standards
 
 ## PURPOSE
 
-To define the terms, “policy,” “standard,” and “guideline” and to describe how the Kansas Information Technology Council (ITEC) will issue these in discharging its statutory responsibilities to include establishing technology architecture for the state technology infrastructure.
+To define the terms, “policy,” “standard,” and “guideline” and to describe how the Kansas Information Technology Executive Council (ITEC) will issue these in discharging its statutory responsibilities to include establishing technology architecture for the state technology infrastructure.
 
 To promote efficient use of resources and to promote the delivery of public services by an IT enabled system of governance that works better, costs less and is capable of serving the citizens’ needs with ease.
 
@@ -67,7 +65,7 @@ A specific example of a technology policy might be:
 > “Entities shall implement an Information Technology Security Policy for their organization. All Information Technology Security Policies adopted by the Entity must be at least as stringent as this policy.”
 
 When ITEC adopts a technology policy, it is binding upon all state entities.  State entities may adopt additional policies so long as they are not less restrictive or conflict with existing ITEC policies.
-.	
+	
 #### Standards
 
 A Standard is a prescribed or proscribed specification, approach, directive, procedure, solution, methodology, product, or protocol which must be followed. An example of a technology standard might be:
