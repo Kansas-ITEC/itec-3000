@@ -1,3 +1,6 @@
+**POLICY IS ACTIVE**
+https://ebit.ks.gov/itec/resources/policies/itec-3000-p-information-technology-policies-and-standards
+
 # ITEC-3000-P: Information Technology Policies and Standards
 
 ## PURPOSE
